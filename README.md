@@ -2,10 +2,7 @@
 
 This extension will encapsulate selected code in curly brackets, and indent the selection inside.
 
-<h1 align="center">
-  <br>
-    <img src="https://github.com/arassch/vscodeScopeIndentExtension/tree/master/scopeindentselection/images/gifTest.gif">
-</h1>
+![Demo](scopeindentselection/images/gifTest.gif)
 
 
 ## Known Issues
