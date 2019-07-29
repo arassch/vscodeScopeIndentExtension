@@ -4,7 +4,7 @@ This extension will encapsulate selected code in curly brackets, and indent the 
 
 <h1 align="center">
   <br>
-    <img src="https://github.com/arassch/vscodeScopeIndentExtension/tree/master/scopeindentselection/images/gifTest.gif?raw=true" alt="logo" width="200">
+    <img src="https://github.com/arassch/vscodeScopeIndentExtension/tree/master/scopeindentselection/images/gifTest.gif" alt="logo" width="200">
     
   <br>
   VS Code - ScopeIndent Extension
