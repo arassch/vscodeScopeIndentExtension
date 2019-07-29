@@ -2,16 +2,14 @@
 	"name": "scopeindentselection",
 	"displayName": "scopeIndentSelection",
 	"description": "Indent selected code when open curly bracket is typed.",
-	"version": "0.0.1",
-	"author": 
-	{
-		"name": "arassch",
-		"url": "https://github.com/arassch"
-	},
-	"publisher": "arassch",
-	"repository": 
-	{
+	"version": "0.0.2",
+	"publisher": "Arassch",
+	"repository": {
 		"url": "https://github.com/arassch/vscodeScopeIndentExtension"
+	},
+	"author": {
+		"name": "Arassch",
+		"url": "https://github.com/arassch"
 	},
 	"engines": {
 		"vscode": "^1.36.0"
