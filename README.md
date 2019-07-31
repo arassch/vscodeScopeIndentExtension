@@ -2,15 +2,16 @@
 
 This extension will encapsulate selected code in curly brackets, and indent the selection inside.
 
-![Demo](scopeindentselection/images/gifTest.gif | width=100)
+<img src="scopeindentselection/images/gifTest.gif?raw=true" width="400px">
 
 To add a keybinding, add these lines to you keybindings.json:
+```
 {
   "key": "shift+[",
   "command": "extension.scopeIndent",
   "when": "editorHasSelection"
 }
-
+```
 
 ## Known Issues
 
